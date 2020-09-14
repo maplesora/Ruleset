@@ -1,20 +1,20 @@
 # 饿了么
-DOMAIN-SUFFIX,ele.me,DIRECT
+DOMAIN-SUFFIX,ele.me
 
 # 政府网站
-DOMAIN-SUFFIX,gov.cn,DIRECT
+DOMAIN-SUFFIX,gov.cn
 
 #国内域名
-DOMAIN-SUFFIX,com.cn,DIRECT
+DOMAIN-SUFFIX,com.cn
 
 #东方证券
-DOMAIN-SUFFIX,hscloud.cn,DIRECT
-DOMAIN-SUFFIX,dfzq.com.cn,DIRECT
+DOMAIN-SUFFIX,hscloud.cn
+DOMAIN-SUFFIX,dfzq.com.cn
 
 #网心科技
-DOMAIN,device-box.onethingpcs.com,DIRECT
-DOMAIN-SUFFIX,jdcloud.com,DIRECT
+DOMAIN,device-box.onethingpcs.com
+DOMAIN-SUFFIX,jdcloud.com
 
 
-DOMAIN-SUFFIX,shushubuyue.net,DIRECT
-DOMAIN-SUFFIX,unclenowayapi.com,DIRECT
+DOMAIN-SUFFIX,shushubuyue.net
+DOMAIN-SUFFIX,unclenowayapi.com
